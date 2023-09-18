@@ -1,2 +1,2 @@
-# projeto-web
-Projeto de Desenvolvimento de Software para Web
+# Projeto de Desenvolvimento de Software para Web
+Olá, seja bem vindo ao projeto acadêmico de desenvolvimento web que fiz durante o meu aprendizado na faculdade junto as mais 3 integrantes! Para ressaltar as partes das quais fui rensponsável foram no planejamento, design e funcionamento do formulário de cadastramento do usuário. Utilizando o que aprendi a respeito de HTML, CSS, Bootstrap e JQuery.

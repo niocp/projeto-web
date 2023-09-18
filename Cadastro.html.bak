@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>Document</title>
+        <link rel="stylesheet" href="./styles.css">
+
+    </head>
+
+    <body id="BodyCadastro">
+        <header>
+            <section>
+               
+               <nav>
+                <ul class="Topo1">
+                    <li><a href="#"></a></li>
+                    <svg fill="#000000" xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 30 30" width="50px" height="50px"><path d="M 3 7 A 1.0001 1.0001 0 1 0 3 9 L 27 9 A 1.0001 1.0001 0 1 0 27 7 L 3 7 z M 3 14 A 1.0001 1.0001 0 1 0 3 16 L 27 16 A 1.0001 1.0001 0 1 0 27 14 L 3 14 z M 3 21 A 1.0001 1.0001 0 1 0 3 23 L 27 23 A 1.0001 1.0001 0 1 0 27 21 L 3 21 z"/></svg>
+                    
+                    <li>
+                         <div class="topnav">
+                            <input type="text" placeholder="Pesquisa">
+                          </div>
+                    </li>
+                 
+
+                    <li>
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="50" height="50" viewBox="0 0 256 256" xml:space="preserve">
+
+                            <defs>
+                            </defs>
+                            <g style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;" transform="translate(1.4065934065934016 1.4065934065934016) scale(2.81 2.81)" >
+                                <path d="M 89.138 21.425 c -0.824 -1.103 -2.087 -1.736 -3.464 -1.736 H 17.129 l -0.886 -3.413 c -0.704 -2.713 -3.153 -4.607 -5.956 -4.607 H 1 c -0.552 0 -1 0.448 -1 1 c 0 0.552 0.448 1 1 1 h 9.287 c 1.892 0 3.545 1.279 4.021 3.11 l 11.165 42.995 c 0.114 0.441 0.512 0.749 0.968 0.749 h 52.201 c 0.553 0 1 -0.447 1 -1 s -0.447 -1 -1 -1 H 27.214 l -2.398 -9.232 h 53.3 c 2.704 0 5.128 -1.812 5.894 -4.404 l 5.809 -19.649 C 90.21 23.918 89.961 22.528 89.138 21.425 z M 87.901 24.671 l -5.809 19.649 c -0.518 1.75 -2.152 2.972 -3.977 2.972 H 24.297 l -6.649 -25.602 h 68.025 c 0.74 0 1.418 0.34 1.861 0.933 C 87.977 23.215 88.111 23.961 87.901 24.671 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+                                <path d="M 35.47 78.331 c -3.762 0 -6.822 -3.061 -6.822 -6.822 s 3.061 -6.822 6.822 -6.822 c 3.762 0 6.823 3.061 6.823 6.822 S 39.232 78.331 35.47 78.331 z M 35.47 66.686 c -2.659 0 -4.822 2.163 -4.822 4.822 c 0 2.659 2.163 4.822 4.822 4.822 s 4.823 -2.163 4.823 -4.822 C 40.293 68.849 38.129 66.686 35.47 66.686 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+                                <path d="M 68.27 78.331 c -3.762 0 -6.822 -3.061 -6.822 -6.822 s 3.061 -6.822 6.822 -6.822 c 3.763 0 6.823 3.061 6.823 6.822 S 72.032 78.331 68.27 78.331 z M 68.27 66.686 c -2.659 0 -4.822 2.163 -4.822 4.822 c 0 2.659 2.163 4.822 4.822 4.822 c 2.659 0 4.823 -2.163 4.823 -4.822 C 73.093 68.849 70.929 66.686 68.27 66.686 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+                            </g>
+                            </svg>
+
+                    </li>
+
+                    <li>
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="50" height="50" viewBox="0 0 256 256" xml:space="preserve">
+
+                            <defs>
+                            </defs>
+                            <g style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;" transform="translate(1.4065934065934016 1.4065934065934016) scale(2.81 2.81)" >
+                                <path d="M 79.635 73.696 C 86.104 65.901 90 55.898 90 45 C 90 20.187 69.813 0 45 0 C 20.187 0 0 20.187 0 45 c 0 10.898 3.896 20.901 10.365 28.696 c 0.105 0.161 0.227 0.315 0.383 0.445 c 0.002 0.002 0.005 0.003 0.007 0.005 C 19.015 83.837 31.298 90 45 90 c 13.702 0 25.985 -6.163 34.245 -15.854 c 0.003 -0.002 0.005 -0.003 0.008 -0.005 C 79.408 74.01 79.53 73.857 79.635 73.696 z M 45 4 c 22.607 0 41 18.393 41 41 c 0 9.169 -3.026 17.645 -8.132 24.482 c -6.081 -6.505 -13.876 -10.99 -22.402 -13.023 c 6.497 -3.669 10.901 -10.629 10.901 -18.609 c 0 -11.782 -9.585 -21.367 -21.367 -21.367 c -11.782 0 -21.367 9.585 -21.367 21.367 c 0 7.979 4.404 14.939 10.901 18.608 c -8.526 2.033 -16.321 6.518 -22.402 13.023 C 7.026 62.645 4 54.169 4 45 C 4 22.393 22.393 4 45 4 z M 45 55.217 c -9.576 0 -17.367 -7.791 -17.367 -17.367 S 35.424 20.482 45 20.482 s 17.367 7.791 17.367 17.367 S 54.576 55.217 45 55.217 z M 45 86 c -11.986 0 -22.787 -5.171 -30.29 -13.399 C 22.48 64.079 33.418 59.217 45 59.217 c 11.581 0 22.52 4.863 30.29 13.384 C 67.787 80.829 56.986 86 45 86 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+                            </g>
+                            </svg>
+                    </li>
+
+                </ul>
+               
+            </nav>
+
+        </section>
+
+
+		<h2> Crie sua conta <h2>
+		
+		
+		<div id="DivCadastro">
+	
+		<form> 
+		
+		<fieldset>
+		<label> Nome Completo: </label> <br> 
+		<input type = "text" id = "fnome" name="fnome"> <br>
+		<br>
+		<label> Data de nascimento: </label> <br>
+		<input type = "date" id = "fdata" name="fdata"> <br>
+		<br>
+		<label> CPF: </label> <br>
+		<input type = "number" id = "fcpf" name="fcpf"> <br>
+		<br>
+		<label> Telefone: </label> <br> 
+		<input type = "text" id = "ftelefone" name="ftelefone"> <br>
+		<br>
+		<label> Email: </label> <br>
+		<input type = "email" id = "femail" name="femail"> <br>
+		<br>
+		<label> Senha: </label> <br>
+		<input type = "password" id = "fsenha" name="fsenha"> <br>
+		<br>
+		<input id = "inputB" type="submit" value="Cadastrar">
+		</fieldset>
+		
+		
+		</form>
+
+	</div>
+	  
+<footer>
+    <div>
+            <ul class="social-list">
+                <li>
+                    <a 
+                        target="_blank"
+                        href="https://instagram.com">
+                        <?xml version="1.0"?><svg fill="#000000" xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 24 24" width="35px" height="35px">    <path d="M 8 3 C 5.243 3 3 5.243 3 8 L 3 16 C 3 18.757 5.243 21 8 21 L 16 21 C 18.757 21 21 18.757 21 16 L 21 8 C 21 5.243 18.757 3 16 3 L 8 3 z M 8 5 L 16 5 C 17.654 5 19 6.346 19 8 L 19 16 C 19 17.654 17.654 19 16 19 L 8 19 C 6.346 19 5 17.654 5 16 L 5 8 C 5 6.346 6.346 5 8 5 z M 17 6 A 1 1 0 0 0 16 7 A 1 1 0 0 0 17 8 A 1 1 0 0 0 18 7 A 1 1 0 0 0 17 6 z M 12 7 C 9.243 7 7 9.243 7 12 C 7 14.757 9.243 17 12 17 C 14.757 17 17 14.757 17 12 C 17 9.243 14.757 7 12 7 z M 12 9 C 13.654 9 15 10.346 15 12 C 15 13.654 13.654 15 12 15 C 10.346 15 9 13.654 9 12 C 9 10.346 10.346 9 12 9 z"/></svg>
+                </li>
+
+                <li>
+                <a 
+                    target="_blank"
+                    href="https://whatsapp.com">
+                    <?xml version="1.0"?><svg fill="#000000" xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 24 24" width="35px" height="35px">    <path d="M 12.011719 2 C 6.5057187 2 2.0234844 6.478375 2.0214844 11.984375 C 2.0204844 13.744375 2.4814687 15.462563 3.3554688 16.976562 L 2 22 L 7.2324219 20.763672 C 8.6914219 21.559672 10.333859 21.977516 12.005859 21.978516 L 12.009766 21.978516 C 17.514766 21.978516 21.995047 17.499141 21.998047 11.994141 C 22.000047 9.3251406 20.962172 6.8157344 19.076172 4.9277344 C 17.190172 3.0407344 14.683719 2.001 12.011719 2 z M 12.009766 4 C 14.145766 4.001 16.153109 4.8337969 17.662109 6.3417969 C 19.171109 7.8517969 20.000047 9.8581875 19.998047 11.992188 C 19.996047 16.396187 16.413812 19.978516 12.007812 19.978516 C 10.674812 19.977516 9.3544062 19.642812 8.1914062 19.007812 L 7.5175781 18.640625 L 6.7734375 18.816406 L 4.8046875 19.28125 L 5.2851562 17.496094 L 5.5019531 16.695312 L 5.0878906 15.976562 C 4.3898906 14.768562 4.0204844 13.387375 4.0214844 11.984375 C 4.0234844 7.582375 7.6067656 4 12.009766 4 z M 8.4765625 7.375 C 8.3095625 7.375 8.0395469 7.4375 7.8105469 7.6875 C 7.5815469 7.9365 6.9355469 8.5395781 6.9355469 9.7675781 C 6.9355469 10.995578 7.8300781 12.182609 7.9550781 12.349609 C 8.0790781 12.515609 9.68175 15.115234 12.21875 16.115234 C 14.32675 16.946234 14.754891 16.782234 15.212891 16.740234 C 15.670891 16.699234 16.690438 16.137687 16.898438 15.554688 C 17.106437 14.971687 17.106922 14.470187 17.044922 14.367188 C 16.982922 14.263188 16.816406 14.201172 16.566406 14.076172 C 16.317406 13.951172 15.090328 13.348625 14.861328 13.265625 C 14.632328 13.182625 14.464828 13.140625 14.298828 13.390625 C 14.132828 13.640625 13.655766 14.201187 13.509766 14.367188 C 13.363766 14.534188 13.21875 14.556641 12.96875 14.431641 C 12.71875 14.305641 11.914938 14.041406 10.960938 13.191406 C 10.218937 12.530406 9.7182656 11.714844 9.5722656 11.464844 C 9.4272656 11.215844 9.5585938 11.079078 9.6835938 10.955078 C 9.7955938 10.843078 9.9316406 10.663578 10.056641 10.517578 C 10.180641 10.371578 10.223641 10.267562 10.306641 10.101562 C 10.389641 9.9355625 10.347156 9.7890625 10.285156 9.6640625 C 10.223156 9.5390625 9.737625 8.3065 9.515625 7.8125 C 9.328625 7.3975 9.131125 7.3878594 8.953125 7.3808594 C 8.808125 7.3748594 8.6425625 7.375 8.4765625 7.375 z"/></svg>
+                </li>
+
+                <li>
+                    <a 
+                        target="_blank"
+                        href="https://phone.com">
+                        <img src="https://img.icons8.com/material-two-tone/35/000000/phone--v1.png"/>
+                    </li>
+
+
+
+
+
+            </ul>
+
+
+    </div>
+</footer>
+</html>
